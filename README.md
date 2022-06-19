@@ -1,5 +1,9 @@
 # Question Similarty
 
+# step 1
+create environment using python=3.7
+
+
 this project is used to find similar question
 
 # API CALL
